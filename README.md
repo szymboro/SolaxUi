@@ -1,6 +1,8 @@
 # Solax Cloud ui
 Simple project for solax data through API
 
+Remember to Add TOKEN and SN to `./src/data.json`
+
 ![Ui](./solaxui.png)
 
 ## Getting token and sn
